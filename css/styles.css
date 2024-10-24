@@ -1,0 +1,51 @@
+.page
+{
+    width: 700px;
+    margin: auto;
+    background-color: rgb(165,159,103);
+    color:  rgb(75,75,25);
+    border-radius: 10px;
+    font-family: Garamond;
+}
+
+main
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2, h3
+{
+    border-bottom: 2px solid;
+}
+
+.img-puce
+{
+    list-style: url("../images/got-icon-16.png");
+}
+
+a
+{
+    color: rgb(255,255,255);
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.img-hyperlien:hover
+{
+    opacity: 0.5;
+}
+
+body
+{
+    background-image: url("../images/got_wallpaper_tr.png");
+}
